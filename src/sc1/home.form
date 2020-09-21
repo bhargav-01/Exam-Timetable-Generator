@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="sc1.home">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="3" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="0">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1386" height="516"/>
+    </constraints>
+    <properties>
+      <background color="-8716330"/>
+      <preferredSize width="850" height="550"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="b2842" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16377306"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="df8fa" class="javax.swing.JMenuBar" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <background color="-16377306"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="dc9b0" class="javax.swing.JMenu" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <background color="-16377306"/>
+                  <font name="Cambria" size="18" style="1"/>
+                  <foreground color="-1"/>
+                  <horizontalAlignment value="2"/>
+                  <text value="File"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <grid id="dde0f" class="javax.swing.JMenu" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                    <margin top="0" left="0" bottom="0" right="0"/>
+                    <constraints/>
+                    <properties>
+                      <text value="Open"/>
+                    </properties>
+                    <border type="none"/>
+                    <children/>
+                  </grid>
+                </children>
+              </grid>
+              <grid id="56739" class="javax.swing.JMenu" layout-manager="BorderLayout" hgap="0" vgap="0">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <background color="-16377306"/>
+                  <font name="Cambria" size="18" style="1"/>
+                  <foreground color="-1"/>
+                  <horizontalAlignment value="0"/>
+                  <text value="Edit"/>
+                </properties>
+                <border type="none"/>
+                <children/>
+              </grid>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="38e2a" layout-manager="GridLayoutManager" row-count="3" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14418076"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="6dce7" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Copperplate Gothic Bold" size="36" style="1"/>
+              <foreground color="-16777216"/>
+              <text value="In"/>
+            </properties>
+          </component>
+          <component id="dfc74" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Copperplate Gothic Bold" size="36" style="1"/>
+              <foreground color="-16777216"/>
+              <text value="Welcome"/>
+            </properties>
+          </component>
+          <component id="b1e29" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Copperplate Gothic Bold" size="36" style="1"/>
+              <foreground color="-16777216"/>
+              <text value="Timetable Generator"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="32fbb" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="0">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-11601679"/>
+          <enabled value="true"/>
+        </properties>
+        <border type="etched" title-justification="4" title-position="2">
+          <font name="Copperplate Gothic Bold" size="36" style="0"/>
+          <title-color color="-16777216"/>
+        </border>
+        <children>
+          <grid id="4a1d0" layout-manager="GridLayoutManager" row-count="2" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="0">
+            <margin top="100" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-11601679"/>
+              <enabled value="true"/>
+            </properties>
+            <border type="etched" title-justification="4" title-position="2">
+              <font name="Copperplate Gothic Bold" size="36" style="0"/>
+              <title-color color="-16777216"/>
+            </border>
+            <children>
+              <component id="2d5e3" class="javax.swing.JButton" binding="bn">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-11601679"/>
+                  <icon value="sc1/icon/s2.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="cad1" class="javax.swing.JLabel" binding="newstudent">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font name="Calibri" size="24" style="1"/>
+                  <foreground color="-16777216"/>
+                  <text value="   Courses Detail"/>
+                </properties>
+              </component>
+              <vspacer id="86126">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+            </children>
+          </grid>
+          <grid id="5974f" binding="p1" layout-manager="GridLayoutManager" row-count="2" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="155" vgap="0">
+            <margin top="100" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-16377306"/>
+            </properties>
+            <border type="etched" title-justification="4" title-position="2">
+              <font name="Copperplate Gothic Bold" size="36" style="1"/>
+              <title-color color="-16777216"/>
+            </border>
+            <children>
+              <component id="1db43" class="javax.swing.JButton" binding="bs">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-16377306"/>
+                  <foreground color="-6948698"/>
+                  <icon value="sc1/icon/invoice.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="acce" class="javax.swing.JLabel" binding="issueBookLabel">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-11601679"/>
+                  <font name="Calibri" size="24" style="1"/>
+                  <foreground color="-11601679"/>
+                  <text value="Generate Timetable"/>
+                </properties>
+              </component>
+              <vspacer id="7d63b">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
