@@ -6,4 +6,4 @@ This is implemented Java swing and MYSQL and itext(jar) to generate pdf of the t
 
 https://sites.google.com/view/201901037sc205/home
 
-![Alt text](https://github.com/bhargav-01/Exam-Timetable-Generator/blob/master/screenshot/ci.png)
+![Alt text](https://github.com/bhargav-01/Exam-Timetable-Generator/blob/master/screenshot/ci.png=250x250)
