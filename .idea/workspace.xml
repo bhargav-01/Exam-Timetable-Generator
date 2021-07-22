@@ -17,6 +17,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="1cJIOycqdxmRPXiX4gw7paOLKid" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -142,29 +149,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1609082201143">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1626949942317">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609082201143" />
-    <state width="1493" height="117" key="GridCell.Tab.0.bottom" timestamp="1609082382638">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1626949942317" />
+    <state x="499" y="337" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1626941614122">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609082382638" />
-    <state width="1493" height="117" key="GridCell.Tab.0.center" timestamp="1609082382638">
+    <state x="499" y="337" key="DBNavigator.CreateRenameConsoleDialog/0.0.1536.824@0.0.1536.824" timestamp="1626941614122" />
+    <state x="486" y="80" width="938" height="743" key="DBNavigator.ProjectSettingsDialog" timestamp="1626943727838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609082382638" />
-    <state width="1493" height="117" key="GridCell.Tab.0.left" timestamp="1609082382638">
+    <state x="486" y="80" width="938" height="743" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1626943727838" />
+    <state x="585" y="208" key="DBNavigator.ResultSetRecordViewerDialog" timestamp="1626943856109">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609082382638" />
-    <state width="1493" height="117" key="GridCell.Tab.0.right" timestamp="1609082382638">
+    <state x="585" y="208" key="DBNavigator.ResultSetRecordViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1626943856109" />
+    <state x="771" y="171" key="FileChooserDialogImpl" timestamp="1626941050033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609082382638" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1609082205222">
+    <state x="771" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626941050033" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1626950221844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609082205222" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626950221844" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1626950221844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1626950221844" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1626950221844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1626950221844" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1626950221844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1626950221844" />
   </component>
 </project>

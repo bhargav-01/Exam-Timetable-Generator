@@ -116,12 +116,6 @@ public class student {
                         st1.setString(1, a);
                         st1.setString(2,b);
                         st1.execute();
-
-                        st1 = conn.prepareStatement("insert into courses1(SG,course1) values(?,?) ");
-                        st1.setString(1, a);
-                        st1.setString(2,b);
-                        st1.execute();
-
                     }
                     table_update();
                     JOptionPane.showMessageDialog(null,"record added");
